@@ -17,17 +17,21 @@ A list of resources pertaining to all things Chamoru. They're sorted by category
 | ID | Description |
 | --- | --- |
 | A | Audio |
-| AR | Account required |
-| DL | Downloadable resource |
 | P | Photos, illustrations |
 | S | Store; has things you can buy |
 | V | Videos |
 | W | Written |
+| AR | Account required |
+| DL | Downloadable resource |
 
 ---
 
 ## General
 
+Resources that fit more than one category.
+
+- [CHamoru History, Culture And Courtesies](https://www.facebook.com/groups/616633032124663) --- Facebook AR
+- [Fanachu!](https://www.patreon.com/fanachu/posts), "a decolonial current events and academic critique show based in Guåhan" --- A, V, AR
 - [The Guam Bus](https://www.theguambus.com/) --- S
 - [Guampedia](https://www.guampedia.com/) --- W
 - [Peter Onedera's Guam PDN Column](https://www.guampdn.com/search/?q=onedera)
@@ -40,11 +44,12 @@ Blogs, or blog-like resources
 
 - [Chamorro Language: Chamorro Dictionary, Lessons and Online Resources](http://www.chamoru.info/) --- W
 - [Hinanao-hu](https://bit.ly/DavidTaitingfong), personal blog by David J. Taitingfong --- W
+- [Hita La'mon](https://www.youtube.com/channel/UC4Hab84fuJ6hwQFxTOKqItw), "Un Chamorro na Vlog gi fino' Chamorro" by Siñot Cody Lizama --- V
 - [The Islander](https://chotdecamilo.blogspot.com/), by ??? --- W
 - [Lengguahi-ta](https://lengguahita.wordpress.com/), by Schyuler --- W
 - [No Rest for the Awake - Minagåhet Chamorro](https://minagahet.blogspot.com/), by Dr. Michael Lujan Bevacqua --- W
 - [Paleric](https://paleric.blogspot.com/), by Påle' Eric --- W
-- [The Salty Chamoru](https://www.instagram.com/thesaltychamoru/), "Mini-blogger of life through Chamoru lenses purely for nostalgia, entertainment, or cultural awareness education" --- AR
+- [The Salty Chamoru](https://www.instagram.com/thesaltychamoru/), "Mini-blogger of life through Chamoru lenses purely for nostalgia, entertainment, or cultural awareness education" --- Instagram AR
 - [Trini Learns Chamorro](https://trinilearnschamorro.blogspot.com/), by Trini
 
 ## Fino'-måmi
@@ -52,20 +57,21 @@ Blogs, or blog-like resources
 Language, e.g., dictionaries, orthographies, etc.
 
 - [Chamorro Dictionary](http://www.chamoru.info/dictionary/) --- W
-- [Chamorro Grammar](https://escholarship.org/uc/item/2sx7w4h5?), "A reference grammar of Chamorro, an Austronesian language of the Mariana Islands (northwest Micronesia)", by Sandra Chung --- DL, W
+- [Chamorro Grammar](https://escholarship.org/uc/item/2sx7w4h5?), "A reference grammar of Chamorro, an Austronesian language of the Mariana Islands (northwest Micronesia)", by Sandra Chung --- W, DL
 - [Dictionary and Grammar of the Chamorro Language of the Island of Guam](http://chamorrobible.org/chamorro-dictionary1.htm) --- W
-- [Hita La'mon](https://www.youtube.com/channel/UC4Hab84fuJ6hwQFxTOKqItw), "Un Chamorro na Vlog gi fino' Chamorro" by Siñot Cody Lizama --- V
 - [Kumisión i Fino' CHamoru](https://kumisionchamoru.guam.gov/), Commision on CHamoru Language --- Mix
 - [Learning Chamoru](https://learningchamoru.com/) --- AR
-- [Utugrafihan CHamoru Guåhan](https://kumisionchamoru.guam.gov/sites/default/files/utugrafihan_chamoru_guahan.pdf), Guam CHamoru Orthography by I Kumusión i Fino' CHamoru yan Fina'nå'guen i Historian Yan Lina'la' i Taotao Tåno' --- DL, W
+- [Utugrafihan CHamoru Guåhan](https://kumisionchamoru.guam.gov/sites/default/files/utugrafihan_chamoru_guahan.pdf), Guam CHamoru Orthography by I Kumusión i Fino' CHamoru yan Fina'nå'guen i Historian Yan Lina'la' i Taotao Tåno' --- W, DL
 
 ## Håle'-måmi
 
 History and genealogy related resources.
 
 - [Ancient Chamorro Society](https://ancientchamorrosociety.weebly.com/)
-- [Chamorro Identity: Chamorro History and Culture](https://chamorrohistory.blogspot.com/) --- W
+- [Chamorro Identity: Chamorro History and Culture](https://chamorrohistory.blogspot.com/)[^1] --- W
 - [Chamorro Roots Genealogy Project, Hale' CHamoru](https://www.chamorroroots.com/v7/), by Bernard Punzalan --- W, AR for some resources
+
+[^1]: Hasn't been updated since 2017.
 
 ## Nengkånnu'
 
