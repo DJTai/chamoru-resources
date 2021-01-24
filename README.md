@@ -40,6 +40,8 @@ Resources that fit more than one category.
   - "a community project that highlights the unique Chamorro heritage and history of Guam and the Mariana Islands"
 - [Independent Guåhan](https://www.facebook.com/independentgu/) --- AR
   - "role of Independent Guåhan is to advocate for Independence as the best future political option for Guam"
+- [Nihi!](https://www.nihiguam.org/media)
+  - "Equipping the future caretakers of our land, ocean and culture."
 - [Peter Onedera's Guam PDN Column](https://www.guampdn.com/search/?q=onedera)
   - Articles written in Chamoru with English translations
 - [Pulan Speaks](https://www.youtube.com/channel/UCF2PEL18ghNHP_HcKMz8LBQ) --- V
@@ -49,7 +51,7 @@ Resources that fit more than one category.
 
 ## Fino'-måmi 🗣
 
-Language, e.g., dictionaries, orthographies, etc.
+Language-related, e.g., dictionaries, orthographies, etc.
 
 - [Chamorro Dictionary](http://www.chamoru.info/dictionary/) --- W
 - [Chamorro Grammar](https://escholarship.org/uc/item/2sx7w4h5?) --- W, DL
