@@ -2,7 +2,7 @@
 
 **A list of resources for learning about Chamoru culture, language, and history.** Sorted by category and alphabetically within each category.
 
-**Last updated:** 23 January 2021
+**Last updated:** 28 January 2021
 
 ## Table of Contents
 
@@ -42,8 +42,6 @@ Resources that fit more than one category.
   - "role of Independent Guåhan is to advocate for Independence as the best future political option for Guam"
 - [Nihi!](https://www.nihiguam.org/media)
   - "Equipping the future caretakers of our land, ocean and culture."
-- [Peter Onedera's Guam PDN Column](https://www.guampdn.com/search/?q=onedera)
-  - Articles written in Chamoru with English translations
 - [Pulan Speaks](https://www.youtube.com/channel/UCF2PEL18ghNHP_HcKMz8LBQ) --- V
   - "learn exciting regional subjects - from the Chamorro language to Micronesian history, and current issues!", content by Edward Leon Guerrero, aka Pulan.
 - [Unibetsedåt Guåhan Publications](https://www.uog.edu/uogpress/publications/)
@@ -64,6 +62,8 @@ Language-related, e.g., dictionaries, orthographies, etc.
   - Commision on CHamoru Language
 - [Learning Chamoru](https://learningchamoru.com/) --- AR
   - "an online platform to facilitate and advance the learning of CHamoru."
+- [Peter Onedera's Guam PDN Column](https://www.guampdn.com/search/?q=onedera) --- W
+  - Listed in this section because his articles are written in Chamoru with English translations
 - [Utugrafihan CHamoru Guåhan](https://kumisionchamoru.guam.gov/sites/default/files/utugrafihan_chamoru_guahan.pdf) --- W, DL
   - Guam CHamoru Orthography, created by I Kumusión i Fino' CHamoru yan Fina'nå'guen i Historian Yan Lina'la' i Taotao Tåno'
 
@@ -85,9 +85,11 @@ History and genealogy related resources.
 
 ## Fantinigi'an Siha 💻 ⌨
 
-Blogs, or blog-like resources
+Opinion columns, blogs, and blog-like resources.
 
 - [Chamorro Language: Chamorro Dictionary, Lessons and Online Resources](http://www.chamoru.info/) --- W
+- [Dr. Michael Lujan Bevacqua's Guam PDN Column](https://www.guampdn.com/search/?q=Bevacqua) --- W
+  - Siñot Bevacqua writes about Chamoru issues and topics, particularly those on Guahan
 - [Hita La'mon](https://www.youtube.com/channel/UC4Hab84fuJ6hwQFxTOKqItw) --- V
   - "Un Chamorro na Vlog gi fino' Chamorro", vlogs created by Siñot Cody Lizama
 - [The Islander](https://chotdecamilo.blogspot.com/) --- W
@@ -98,7 +100,7 @@ Blogs, or blog-like resources
   - "This blog is dedicated to Chamorro issues, the use and revitalization of the Chamoru language and the decolonization of Guam", blogs by Dr. Michael Lujan Bevacqua
 - [Paleric](https://paleric.blogspot.com/) --- W
   - An amazing resource for all things Chamoru. Written by Påle' Eric. Blogs go back to 2011.
-- [The Salty Chamoru](https://www.instagram.com/thesaltychamoru/) --- AR
+- [Salty Chamoru](https://www.instagram.com/thesaltychamoru/) --- AR
   - "Mini-blogger of life through Chamoru lenses purely for nostalgia, entertainment, or cultural awareness education"
 - [Trini Learns Chamorro](https://trinilearnschamorro.blogspot.com/) --- W
   - "This blog is how I will hold myself accountable in actively practicing the language", blogs by Trini
