@@ -2,7 +2,9 @@
 
 **A list of resources for learning about Chamoru culture, language, and history.** Sorted by category and alphabetically within each category.
 
-**Last updated:** 28 January 2021
+If there is something here that should/needs to be removed, please let me know and I will remove it. Saina ma'åse'.
+
+**Last updated:** 29 January 2021
 
 ## Table of Contents
 
@@ -46,6 +48,8 @@ Resources that fit more than one category.
   - "learn exciting regional subjects - from the Chamorro language to Micronesian history, and current issues!", content by Edward Leon Guerrero, aka Pulan.
 - [Unibetsedåt Guåhan Publications](https://www.uog.edu/uogpress/publications/)
   - Publications from the University of Guam
+- [Wikipedia in Chamoru](https://ch.wikipedia.org/wiki/Fanhaluman)
+  - Nowhere near as extensive as the English version, but maybe that can change if enough of us contribute.
 
 ## Fino'-måmi 🗣
 
@@ -72,8 +76,9 @@ Language-related, e.g., dictionaries, orthographies, etc.
 History and genealogy related resources.
 
 - [Ancient Chamorro Society](https://ancientchamorrosociety.weebly.com/)
+  - These are scans of pages from the book.
 - [Chamorro Identity: Chamorro History and Culture](https://chamorrohistory.blogspot.com/)<sup>1</sup> --- W
-- [Chamorro Roots Genealogy Project, Hale' CHamoru](https://www.chamorroroots.com/v7/) --- W, AR for some resources
+- [Chamorro Roots Genealogy Project, Hale' CHamoru](https://www.chamorroroots.com/v7/) --- W, AR
   - Created by Bernard Punzalan
 
 *1: Hasn't been updated since 2017.*
