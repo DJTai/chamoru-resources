@@ -61,25 +61,27 @@ Resources that fit more than one category.
 - [Wikipedia in Chamoru](https://ch.wikipedia.org/wiki/Fanhaluman)
   - Nowhere near as extensive as the English version, but maybe that can change if enough of us contribute.
 
-## Fino'-måmi 🗣
+## Fino'-ta 🗣
 
-Language-related, e.g., dictionaries, orthographies, etc.
+Language-related resources, e.g., dictionaries, orthographies, etc.
 
 - [Chamorro Dictionary](http://www.chamoru.info/dictionary/) --- W
-- [Chamorro Grammar](https://escholarship.org/uc/item/2sx7w4h5?) --- W, DL
-  - "A reference grammar of Chamorro, an Austronesian language of the Mariana Islands (northwest Micronesia)", by Dr. Sandra Chung
+- [Chamorro Grammar](https://escholarship.org/uc/item/2sx7w4h5?) by Dr. Sandra Chung--- W, DL
+  - "A reference grammar of Chamorro, an Austronesian language of the Mariana Islands (northwest Micronesia)"
 - [Dictionary and Grammar of the Chamorro Language of the Island of Guam](http://chamorrobible.org/chamorro-dictionary1.htm) --- W
   - Released by Navy Department, United States of America; Washington, Government Printing Office, 1918
-- [Kuentusi](https://kuentusi.com/) --- W, DL
-  - "a simple site designed to help people learn CHamoru. Here you’ll find dialogues, quizzes, and whatever else we decide to post!", created by Mookie Sablan
+- [Ginen i Hila' i Mañaina-ta: Rinikohen Tiningo' yan Sinangan Siha](https://drive.google.com/file/d/1qPE80j1d4sH5MN912Dromkf6MhvA1OcR/view) --- W, DL
 - [Kumisión i Fino' CHamoru](https://kumisionchamoru.guam.gov/) --- Mix
-  - Commision on CHamoru Language
-- [Learning Chamoru](https://learningchamoru.com/) --- AR
+  - Guam's Commision on CHamoru Language
+- [Learning CHamoru](https://learningchamoru.com/) --- AR
   - "an online platform to facilitate and advance the learning of CHamoru."
 - [Peter Onedera's Guam PDN Column](https://www.guampdn.com/search/?q=onedera) --- W
   - Listed in this section because his articles are written in Chamoru with English translations
+  - *note*: The latest article is dated [Feb 10, 2021](https://www.guampdn.com/opinion/ha-kontenuha-i-dinesrespetu-guini-na-s-kkan/article_3d1bdd33-e301-5182-b10f-dae7f75e04e7.html)
 - [Utugrafihan CHamoru Guåhan](https://kumisionchamoru.guam.gov/sites/default/files/utugrafihan_chamoru_guahan.pdf) --- W, DL
-  - Guam CHamoru Orthography, created by I Kumusión i Fino' CHamoru yan Fina'nå'guen i Historian Yan Lina'la' i Taotao Tåno'
+  - Guam CHamoru Orthography, created by [I Kumusión i Fino' CHamoru yan Fina'nå'guen i Historian Yan Lina'la' i Taotao Tåno'](https://kumisionchamoru.guam.gov/)
+- [Utugrafihan Finu' Chamorro](https://people.ucsc.edu/~schung/Utugrafiha2010.pdf) --- W, DL
+  - Chamorro Orthography (revised July 2009) used in the Commonwealth of the Northern Mariana Islands (CNMI)
 
 ## Håle'-måmi 🌊 ✨ 🧬
 
