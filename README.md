@@ -103,20 +103,20 @@ History and genealogy related resources.
 
 Opinion columns, blogs, and blog-like resources.
 
-- [Chamorro Language: Chamorro Dictionary, Lessons and Online Resources](http://www.chamoru.info/) --- W
 - [Dr. Michael Lujan Bevacqua's Guam PDN Column](https://www.guampdn.com/search/?q=Bevacqua) --- W
   - Siñot Bevacqua writes about Chamoru issues and topics, particularly those on Guahan
 - [Hita La'mon](https://www.youtube.com/channel/UC4Hab84fuJ6hwQFxTOKqItw) --- V
   - "Un Chamorro na Vlog gi fino' Chamorro", vlogs created by Siñot Cody Lizama
+- [I Sakman i Fino'-ta](https://isakman.com/) --- W
+  - A site dedicated to blogs written entirely in Chamoru. Topics run the gamut from video games to history to personal stories.
 - [The Islander](https://chotdecamilo.blogspot.com/) --- W
   - Songs & poems; unknown author.
-- [Lengguahi-ta](https://lengguahita.wordpress.com/) --- W
-  - a "blog to document my Chamoru language learning journey and organize the content I’m learning", content created by Schyuler
+- [Lengguahi-ta](https://www.instagram.com/lengguahita/) --- W, AR
+  - Instagram account, "Documenting my Chamorro language learning journey and sharing my notes"
+  - [Personal site](https://lengguahita.wordpress.com/)
 - [No Rest for the Awake - Minagåhet Chamorro](https://minagahet.blogspot.com/) --- W
   - "This blog is dedicated to Chamorro issues, the use and revitalization of the Chamoru language and the decolonization of Guam", blogs by Dr. Michael Lujan Bevacqua
 - [Paleric](https://paleric.blogspot.com/) --- W
   - An amazing resource for all things Chamoru. Written by Påle' Eric. Blogs go back to 2011.
 - [Salty Chamoru](https://www.instagram.com/thesaltychamoru/) --- AR
   - "Mini-blogger of life through Chamoru lenses purely for nostalgia, entertainment, or cultural awareness education"
-- [Trini Learns Chamorro](https://trinilearnschamorro.blogspot.com/) --- W
-  - "This blog is how I will hold myself accountable in actively practicing the language", blogs by Trini
