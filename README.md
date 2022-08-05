@@ -98,7 +98,6 @@ History and genealogy related resources.
 ## Nengkånnu' 🍚🥥🐟
 
 - [Annie's Chamorro Kitchen](https://www.annieschamorrokitchen.com/chamorro-dishes/) --- W
-- [Common, Chamoru, and Scientific Names of Fruits and Vegetables](https://cnas-re.uog.edu/wp-content/uploads/2016/03/chamoru_science_names_3_21_16.pdf) --- W, DL
 
 ## Fantinigi'an Siha 💻 ⌨
 
