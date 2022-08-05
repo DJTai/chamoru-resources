@@ -83,7 +83,7 @@ Language-related resources, e.g., dictionaries, orthographies, etc.
 - [Utugrafihan Finu' Chamorro](https://people.ucsc.edu/~schung/Utugrafiha2010.pdf) --- W, DL
   - Chamorro Orthography (revised July 2009) used in the Commonwealth of the Northern Mariana Islands (CNMI)
 
-## Håle'-måmi 🌊 ✨ 🧬
+## Håle'-ta 🌊 ✨ 🧬
 
 History and genealogy related resources.
 
