@@ -1,18 +1,24 @@
 # Chamoru Resources
 
-**A list of resources for learning about Chamoru culture, language, and history.** Sorted by category and alphabetically within each category.
+**A list of resources for learning about Chamoru culture, language, and history.** Sorted by category and then alphabetically within each category.
 
-If there is something here that should/needs to be removed, please let me know and I will remove it. Saina ma'åse'.
+**NOTE**: If there is...
+1. something here that should/needs to be removed
+2. something missing that should be added
 
-**Last updated:** 29 January 2021
+...let me know and I'll take care of it. Or if you'd like, submit a PR 🤓
 
+**Last updated:** 4 August 2022
+
+<!-- omit in toc -->
 ## Table of Contents
 
-- [General](#general)
-- [Fino'-måmi](#fino-måmi)
-- [Håle'-måmi](#håle-måmi)
-- [Nengkånnu](#nengkånnu)
-- [Fantinigi'an Siha](#fantinigian-siha)
+- [General 📚 📖 📑](#general---)
+- [Fino'-ta 🗣](#fino-ta-)
+- [Håle'-ta 🌊 ✨ 🧬](#håle-ta---)
+- [Nengkånnu' 🍚🥥🐟](#nengkånnu-)
+- [Fantinigi'an Siha 💻 ⌨](#fantinigian-siha--)
+
 
 ### Key
 
