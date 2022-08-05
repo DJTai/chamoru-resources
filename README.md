@@ -42,17 +42,21 @@ Resources that fit more than one category.
   - FB group which is "dedicated to the CHamoru people, their histories, culture, customs, courtesies"
 - [Fanachu!](https://www.patreon.com/fanachu/posts) --- A, V, AR
   - "a decolonial current events and academic critique show based in Guåhan"
+  - [YouTube](https://www.youtube.com/channel/UCCKZ59_WJxTQeMp_kJA8ykA) channel
 - [The Guam Bus](https://www.theguambus.com/) --- S
   - Mission: "to revitalize the Chamoru language and empower the Chamoru people"
 - [Guampedia](https://www.guampedia.com/) --- W
   - "a community project that highlights the unique Chamorro heritage and history of Guam and the Mariana Islands"
 - [Independent Guåhan](https://www.facebook.com/independentgu/) --- AR
   - "role of Independent Guåhan is to advocate for Independence as the best future political option for Guam"
+- [Marianas Agupa Talkshow](https://www.youtube.com/user/glenabeck) --- A, V
+  - "Marianas Agupa Show is designed to promote our Chamorro Language and Culture via live talk show, oral stories, idioms,foods, songs and events."
+  - [Facebook](https://www.facebook.com/Marianas-Agupa-Show-278884342457682/) account (AR)
 - [Nihi!](https://www.nihiguam.org/media)
   - "Equipping the future caretakers of our land, ocean and culture."
 - [Pulan Speaks](https://www.youtube.com/channel/UCF2PEL18ghNHP_HcKMz8LBQ) --- V
   - "learn exciting regional subjects - from the Chamorro language to Micronesian history, and current issues!", content by Edward Leon Guerrero, aka Pulan.
-- [Unibetsedåt Guåhan Publications](https://www.uog.edu/uogpress/publications/)
+- [Unibetsedåt Guåhan Publications](https://www.uog.edu/uogpress/publications/) --- S
   - Publications from the University of Guam
 - [Wikipedia in Chamoru](https://ch.wikipedia.org/wiki/Fanhaluman)
   - Nowhere near as extensive as the English version, but maybe that can change if enough of us contribute.
