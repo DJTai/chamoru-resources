@@ -72,6 +72,8 @@ Language-related resources, e.g., dictionaries, orthographies, etc.
 - [Dictionary and Grammar of the Chamorro Language of the Island of Guam](http://chamorrobible.org/chamorro-dictionary1.htm) --- W
   - Released by Navy Department, United States of America; Washington, Government Printing Office, 1918
 - [Ginen i Hila' i Mañaina-ta: Rinikohen Tiningo' yan Sinangan Siha](https://drive.google.com/file/d/1qPE80j1d4sH5MN912Dromkf6MhvA1OcR/view) --- W, DL
+- [KPV Collection, Chamorro Books](https://www.kpvcollection.com/chamorro.html)
+  - Digital scans of Chamorro books from around the late 70's/early 80's
 - [Kumisión i Fino' CHamoru](https://kumisionchamoru.guam.gov/) --- Mix
   - Vision: "We lead nation-building efforts to insure the continuity of our CHamoru peoplehood and nationhood by fostering the restoration and revitalization of our language, culture and history as Guahǻn’s taotao tåno’."
   - [Utugrafihan CHamoru Guåhan](https://kumisionchamoru.guam.gov/sites/default/files/utugrafihan_chamoru_guahan.pdf) --- W, DL
@@ -92,6 +94,8 @@ History and genealogy related resources.
 - [Chamorro Identity: Chamorro History and Culture](https://chamorrohistory.blogspot.com/)<sup>1</sup> --- W
 - [Chamorro Roots Genealogy Project, Hale' CHamoru](https://www.chamorroroots.com/v7/) --- W, AR
   - Created by Siñot Bernard Punzalan
+- [CNMI Archives](https://archives.marianas.edu/medialist.php) --- V, W
+  - Interviews archive
 
 *1: Hasn't been updated since 2017.*
 
@@ -103,6 +107,8 @@ History and genealogy related resources.
 
 Opinion columns, blogs, and blog-like resources.
 
+- [David Taitingfong's blog](https://djtai.github.io/)
+  - *shameless plug, this is me*
 - [Dr. Michael Lujan Bevacqua's Guam PDN Column](https://www.guampdn.com/search/?q=Bevacqua) --- W
   - Dr. Bevacqua writes about Chamorro issues and topics, particularly those on Guåhan
 - [Hita La'mon](https://www.youtube.com/channel/UC4Hab84fuJ6hwQFxTOKqItw) --- V
